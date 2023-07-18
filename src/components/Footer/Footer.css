@@ -16,6 +16,10 @@
   gap: 4rem;
   color: white;
 }
+.f-content>span>a{
+  text-decoration: none;
+  color: #fff;
+}
 .f-icons {
   display: flex;
   gap: 2rem;
